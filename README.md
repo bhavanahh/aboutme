@@ -13,9 +13,6 @@
 - C programming & Python fundamentals
 - AI & Cybersecurity concepts
 
-💡 Fun side interests:
-- Dancing 💃, Playing Ukulele 🎸
-- Public Speaking
 
 📫 How to reach me:
 - 📧 bhavanasivaganga88@gmail.com
